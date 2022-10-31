@@ -27,7 +27,11 @@
   }
 }
 
-
+@media screen and (max-width: 586px) {
+  .cover__item {
+    min-height: 200px;
+  }
+}
 
 .cover__item::before {
   content: '';
