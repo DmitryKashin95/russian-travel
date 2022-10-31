@@ -1,0 +1,20 @@
+.header {
+  margin: 0 auto;
+  padding: 0 48px 0;
+  display: flex;
+  justify-content: space-between;
+  max-width: 1280px;
+}
+
+@media screen and (max-width: 984px) {
+  .header {
+    padding: 0 24px;
+  }
+}
+
+@media screen and (max-width: 586px) {
+  .header {
+    padding: 0 16px;
+  }
+}
+
