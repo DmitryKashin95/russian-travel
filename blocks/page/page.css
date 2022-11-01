@@ -9,6 +9,7 @@
   font-family: 'Inter', 'Helvatica', sans-serif;
   font-style: normal;
   font-weight: 400;
+  min-width: 320px;
 }
 
 @media screen and (max-width: 568px) {

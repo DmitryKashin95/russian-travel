@@ -1,8 +1,11 @@
 .header__lang-links {
   margin: 0;
+  padding: 0;
   display: flex;
   justify-content: space-between;
+  align-items: flex-end;
   gap: 18px;
+  list-style: none;
 }
 
 @media screen and (max-width: 568px) {
